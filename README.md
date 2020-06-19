@@ -7,3 +7,5 @@ $ npm i @emotion/styled @emotion/core
 ~~~console
 $ npm i react-transition-group
 ~~~
+
+* Spinkit: https://tobiasahlin.com/spinkit/
