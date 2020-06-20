@@ -1,3 +1,7 @@
+# App 03: Cotizador de seguro de automóvil
+
+<img src="./img-app.jpg" height="500">
+
 * Emotion: https://emotion.sh/docs/introduction
 ~~~console
 $ npm i @emotion/styled @emotion/core
